@@ -1,0 +1,17 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
