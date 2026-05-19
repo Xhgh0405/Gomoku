@@ -87,11 +87,13 @@ Ctrl + F5
 
 ### 遊戲進行中
 
-![main screenshot](docs/screenshot_main.png)
+<img width="886" height="684" alt="image" src="https://github.com/user-attachments/assets/a2d22c97-d518-4e15-b30d-1aa7fa5328e1" />
+
 
 ### 黑棋獲勝畫面
 
-![win screenshot](docs/screenshot_win.png)
+<img width="899" height="674" alt="image" src="https://github.com/user-attachments/assets/9374a65b-c464-423f-9375-b96f2b3abeb6" />
+
 
 ---
 
