@@ -237,28 +237,7 @@ PlaySound(winSound);
 
 ---
 
-## 十三、GitHub 上傳注意事項
-
-上傳 GitHub 時，請確認倉庫內包含以下內容：
-
-- `HW2_Gomoku.sln`
-- `HW2_Gomoku/` 原始程式碼資料夾
-- `Resources/` 圖片與音效素材
-- `docs/` 截圖資料夾
-- `README.md`
-- `.gitignore`
-
-不要上傳以下編譯或暫存資料夾：
-
-- `bin/`
-- `obj/`
-- `.vs/`
-
-`.git` 資料夾是 GitHub 本機版本控制資料夾，不需要放進繳交用的壓縮檔。
-
----
-
-## 十四、問題排除
+## 十三、問題排除
 
 ### 1. Visual Studio 無法開啟專案
 
@@ -301,7 +280,7 @@ PlaySound(winSound);
 
 ---
 
-## 十五、資料來源
+## 十四、資料來源
 
 - 遊戲玩法：一般五子棋規則，連結:https://zh.wikipedia.org/zh-tw/%E4%BA%94%E5%AD%90%E6%A3%8B。
 - 棋子圖片：本專案自製簡易 PNG 圖片。
